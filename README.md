@@ -1,4 +1,4 @@
-# ayurveda
+# Ayurveda
 This project deals with the creation of a ontology for ayurveda basics.
 We start with the basic principles of human body as prescribed by Patanjali and Sushrutha.
 The human body is considered to be made of the five elements in nature - ether, fire, earth, water and air.
